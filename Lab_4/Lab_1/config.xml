@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <BackColor>Red</BackColor>
+  <Font>
+    <FontSize>26.25</FontSize>
+    <FontType>Microsoft JhengHei</FontType>
+    <FontColor>ControlText</FontColor>
+  </Font>
+  <Data>
+    <A>4</A>
+    <B>3</B>
+    <C>5</C>
+  </Data>
+</Settings>
